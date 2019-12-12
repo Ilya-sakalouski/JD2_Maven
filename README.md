@@ -1,1 +1,1 @@
-# JD2_Maven
+# Lesson_2 Homework: Maven
