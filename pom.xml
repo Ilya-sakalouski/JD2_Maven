@@ -8,5 +8,7 @@
     <artifactId>JD2_Maven</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <packaging>jar</packaging>
+
 
 </project>
